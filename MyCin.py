@@ -1,6 +1,6 @@
 # MYCIN
 # STANDFORD
-# MULTIPLE DOCTORS
+# MULTIPLE DOCTORS   -> 
 #  CREATE A SUSTEM - DIAGNOSIS
 #  mycin - medical diagnosis and treatment recommendation system
 

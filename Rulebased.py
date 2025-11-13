@@ -45,3 +45,6 @@ print(f"Predicted saliency: {predicted_saliency}")
 # MYCIN -> DIAGNOSIS RECOMMENDATION SYSTEM
 # INPUT - OUTPUT
 # SET OF RULES --> SATIFY THE INPUT -> GIVE OUTPUT
+
+# rules
+# NO LEARNING
